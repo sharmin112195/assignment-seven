@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co.com/r6yKMhw/IMG-3795.jpg",
+        "name": "Tamim Iqbal",
+        "country": "Bangladesh",
+        "hand": "Right-hand-Bat",
+        "type": "Batsman",
+        "price": 8500
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co.com/fYhXJD2/IMG-3796.jpg",
+        "name": "Mushfiqur Rahim",
+        "country": "Bangladesh",
+        "hand": "Left-hand-Bat",
+        "type": "Batsman",
+        "price": 8500
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co.com/3ykFk99/IMG-3798.jpg",
+        "name": "Mahmudullah Riyad",
+        "country": "Bangladesh",
+        "hand": "Right-hand-Bat",
+        "type": "All-rounder",
+        "price": 8500
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co.com/4VCDMn3/IMG-3799.jpg",
+        "name": "Najmul Hossain Shanto",
+        "country": "Bangladesh",
+        "hand": "Right-hand-Bat",
+        "type": "Batsman",
+        "price": 8500
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co.com/RSkJmZj/IMG-3800.jpg",
+        "name": "Imrul Kayes",
+        "country": "Bangladesh",
+        "hand": "Left-hand-Bat",
+        "type": "Bowler",
+        "price": 8500
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co.com/5vx3cG9/IMG-3801.jpg",
+        "name": "Litton Das",
+        "country": "Bangladesh",
+        "hand": "Right-hand-Bat",
+        "type": "Batsman",
+        "price": 8500
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co.com/ZLKmmvY/IMG-3802.jpg",
+        "name": "Joe Root",
+        "country": "England",
+        "hand": "Right-hand-Bowl",
+        "type": "Bowler",
+        "price": 8500
+    },
+    {
+        "id": 8,
+        "img": "https://i.ibb.co.com/1KPw89t/IMG-3803.jpg",
+        "name": "Jason Roy",
+        "country": "England",
+        "hand": "Left-hand-Bat",
+        "type": "All-rounder",
+        "price": 8500
+    },
+    {
+        "id": 9,
+        "img": "https://i.ibb.co.com/Y7NbJgq/IMG-3804.jpg",
+        "name": "Finn Edge",
+        "country": "England",
+        "hand": "Right-hand-Bat",
+        "type": "Batsman",
+        "price": 8500
+    },
+    {
+        "id": 10,
+        "img": "https://i.ibb.co.com/sWKLnDt/IMG-3822.jpg",
+        "name": "Moeen Ali",
+        "country": "South Africa",
+        "hand": "Right-hand-Bat",
+        "type": "All-rounder",
+        "price": 8500
+    },
+    {
+        "id": 11,
+        "img": "https://i.ibb.co.com/J22Rmfg/IMG-3824.png",
+        "name": "Hashim Amla",
+        "country": "South Africa",
+        "hand": "Right-hand",
+        "type": "Batsman",
+        "price": 8500
+    },
+    {
+        "id": 12,
+        "img": "https://i.ibb.co.com/VVMLM3j/IMG-3826.jpg",
+        "name": "Hardik Panday",
+        "country": "India",
+        "hand": "Right-hand-Bowl",
+        "type": "Bowler",
+        "price": 8500
+    }
+]
